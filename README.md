@@ -1,2 +1,2 @@
 # tilpea.github.io
-Pagina web de la comunidad de aprendizaje de tecnologías libres 
+Pagina web No OFICIAL de la comunidad de aprendizaje de tecnologías de información libres.
